@@ -1,0 +1,26 @@
+\begin{table}[H]
+\centering
+\caption{Response rates by treatment assignment and by sample} 
+\label{table:ResponseRate}
+\begingroup\footnotesize
+\begin{tabular}{clccc}
+  \hline
+\multicolumn{1}{>{\centering}p{3cm}}{Sample} & \multicolumn{1}{>{\centering}p{3cm}}{Treatment} & \multicolumn{1}{>{\centering}p{2cm}}{Baseline} & \multicolumn{1}{>{\centering}p{2cm}}{Endline} & \multicolumn{1}{>{\centering}p{2cm}}{Response rate} \\ 
+  \hline
+Sample Course & Control & 83 & 66 & 0.80 \\ 
+  delivered & Course and Verification & 76 & 45 & 0.59 \\ 
+  online & Course & 73 & 35 & 0.48 \\ 
+   & Verification & 78 & 59 & 0.76 \\ 
+   \hline
+ & Total & 310 & 205 & 0.66 \\ 
+   \hline
+Sample Course & Control & 132 & 72 & 0.55 \\ 
+  delivered via & Course and Verification & 132 & 65 & 0.49 \\ 
+  WhatsApp & Course & 131 & 66 & 0.50 \\ 
+   & Verification & 133 & 55 & 0.41 \\ 
+   \hline
+ & Total & 528 & 258 & 0.49 \\ 
+   \hline
+\end{tabular}
+\endgroup
+\end{table}
